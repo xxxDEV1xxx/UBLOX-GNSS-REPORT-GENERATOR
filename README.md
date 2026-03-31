@@ -3,9 +3,10 @@
 1. make drive:
 mkdir c:\GNSS_Evidence\
 
-3. download and install for use with U-blox7 GPS/GLONASS usb : 
+2. download and install for use with U-blox7 GPS/GLONASS usb : 
 https://content.u-blox.com/sites/default/files/2025-06/u-center_v25.06_installer.zip
-install: 
+
+3.install: 
 pip install pyserial
 python -m pip install python-docx --user
 
